@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.week1.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.week1.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_navigation_dashboard_to_editTextFragment"
+            app:destination="@id/editTextFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/editTextFragment"
+        android:name="com.example.week1.ui.edit.EditTextFragment"
+        android:label="Edit Text"
+        tools:layout="@layout/fragment_edit_text">
+
+        <!-- 인자 정의 -->
+        <argument
+            android:name="currentText"
+            app:argType="string" />
+        <argument
+            android:name="position"
+            app:argType="integer" /> <!-- app:nullable 속성 제거 -->
+
+        <!-- 액션 정의 -->
+        <action
+            android:id="@+id/action_editTextFragment_to_navigation_dashboard"
+            app:destination="@id/navigation_dashboard">
+            <argument
+                android:name="currentText"
+                app:argType="string" />
+            <argument
+                android:name="position"
+                app:argType="integer" /> <!-- app:nullable 속성 제거 -->
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.week1.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+</navigation>
