@@ -54,9 +54,3 @@
    - 사용자가 직접 미션을 추가하고 달성 여부를 확인할 수 있는 기능 추가.
 
 ---
-
-## **설치 및 실행**
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/your-repository/projigwanro.git
-   cd projigwanro
