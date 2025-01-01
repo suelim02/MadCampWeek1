@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">프로직관러</string>
+    <string name="title_home">   HOME</string>
+    <string name="title_dashboard">   DIARY</string>
+    <string name="title_notifications">   MISSION</string>
+    <string-array name="filter_fields">
+        <item>name</item>
+        <item>stadium</item>
+    </string-array>
+    <string-array name="filter_type">
+        <item>야구</item>
+        <item>축구</item>
+        <item>농구</item>
+        <item>배구</item>
+    </string-array>
+</resources>

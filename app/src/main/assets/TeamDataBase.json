@@ -1,0 +1,418 @@
+[
+  {
+    "Name": "KIA 타이거즈",
+    "Stadium": "광주 - 광주기아챔피언스필드",
+    "Type": "야구",
+    "Location": "광주광역시 북구 서림로 10",
+    "Seat": 20500,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/58#reservation"
+  },
+  {
+    "Name": "삼성 라이온즈",
+    "Stadium": "대구 - 대구삼성라이온즈파크",
+    "Type": "야구",
+    "Location": "대구광역시 수성구 야구전설로 1",
+    "Seat": 24000,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/57#reservation"
+  },
+  {
+    "Name": "LG 트윈스",
+    "Stadium": "서울 - 잠실종합운동장",
+    "Type": "야구",
+    "Location": "서울특별시 송파구 올림픽로 25",
+    "Seat": 23750,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/59#reservation"
+  },
+  {
+    "Name": "KT 위즈",
+    "Stadium": "수원 - 수원KT위즈파크",
+    "Type": "야구",
+    "Location": "경기도 수원시 장안구 경수대로 893",
+    "Seat": 18700,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/62#reservation"
+  },
+  {
+    "Name": "SSG 랜더스",
+    "Stadium": "인천 - 인천SSG랜더스필드",
+    "Type": "야구",
+    "Location": "인천광역시 미추홀구 매소홀로 618",
+    "Seat": 18700,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/476#reservation"
+  },
+  {
+    "Name": "두산 베어스",
+    "Stadium": "서울 - 잠실종합운동장",
+    "Type": "야구",
+    "Location": "서울특별시 송파구 올림픽로 25",
+    "Seat": 23750,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07001&TeamCode=PB004"
+  },
+  {
+    "Name": "한화 이글스",
+    "Stadium": "대전 - 대전베이스볼드림파크",
+    "Type": "야구",
+    "Location": "대전광역시 중구 대종로 373",
+    "Seat": 20607,
+    "Ticket": "https://www.ticketlink.co.kr/sports/baseball/63#reservation"
+  },
+  {
+    "Name": "롯데 자이언츠",
+    "Stadium": "부산 - 사직야구장",
+    "Type": "야구",
+    "Location": "부산광역시 동래구 사직로 45",
+    "Seat": 22990,
+    "Ticket": "https://ticket.giantsclub.com/ticket.do"
+  },
+  {
+    "Name": "NC 다이노스",
+    "Stadium": "창원 - 창원NC파크",
+    "Type": "야구",
+    "Location": "경상남도 창원시 마산회원구 삼호로 63",
+    "Seat": 17861,
+    "Ticket": "https://www.ncdinos.com/auth/ticket.do"
+  },
+  {
+    "Name": "넥센 히어로즈",
+    "Stadium": "서울 - 고척스카이돔",
+    "Type": "야구",
+    "Location": "서울특별시 구로구 경인로 430",
+    "Seat": 16000,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07001&TeamCode=PB003"
+  },
+  {
+    "Name": "울산 HD",
+    "Stadium": "울산 - 울산문수축구경기장",
+    "Type": "축구",
+    "Location": "울산광역시 남구 문수로 44",
+    "Seat": 44102,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/66#reservation"
+  },
+  {
+    "Name": "강원 FC",
+    "Stadium": "강원 - 강릉종합운동장",
+    "Type": "축구",
+    "Location": "강원특별자치도 강릉시 종합운동장길 69",
+    "Seat": 22333,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS014"
+  },
+  {
+    "Name": "전북 현대",
+    "Stadium": "전북 - 전주월드컵경기장",
+    "Type": "축구",
+    "Location": "전북특별자치도 전주시 덕진구 기린대로 1055",
+    "Seat": 36781,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/73#reservation"
+  },
+  {
+    "Name": "수원 FC",
+    "Stadium": "수원 - 수원종합운동장",
+    "Type": "축구",
+    "Location": "경기도 수원시 장안구 조원동 775-1",
+    "Seat": 11808,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS061"
+  },
+  {
+    "Name": "대전 시티즌",
+    "Stadium": "대전 - 대전월드컵경기장",
+    "Type": "축구",
+    "Location": "대전광역시 유성구 월드컵대로 32",
+    "Seat": 40903,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/83#reservation"
+  },
+  {
+    "Name": "제주 FC",
+    "Stadium": "제주 - 제주월드컵경기장",
+    "Type": "축구",
+    "Location": "제주특별자치도 서귀포시 월드컵로 33",
+    "Seat": 29791,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/76#reservation"
+  },
+  {
+    "Name": "포항 스틸러스",
+    "Stadium": "포항 - 포항스틸야드",
+    "Type": "축구",
+    "Location": "경상북도 포항시 남구 동해안로6213번길 20",
+    "Seat": 17443,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/74#reservation"
+  },
+  {
+    "Name": "김천 상무",
+    "Stadium": "김천 - 김천종합운동장",
+    "Type": "축구",
+    "Location": "경상북도 김천시 운동장길 1",
+    "Seat": 25000,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/80#reservation"
+  },
+  {
+    "Name": "광주 FC",
+    "Stadium": "광주 - 광주축구전용구장",
+    "Type": "축구",
+    "Location": "광주광역시 서구 금화로 240",
+    "Seat": 10051,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/79#reservation"
+  },
+  {
+    "Name": "대구 FC",
+    "Stadium": "대구 - DGB대구은행파크",
+    "Type": "축구",
+    "Location": "대구광역시 북구 고성로 191",
+    "Seat": 12415,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/84#reservation"
+  },
+  {
+    "Name": "FC 안양",
+    "Stadium": "안양 - 안양종합운동장",
+    "Type": "축구",
+    "Location": "경기도 안양시 동안구 평촌대로 389",
+    "Seat": 17143,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/86#reservation"
+  },
+  {
+    "Name": "FC 서울",
+    "Stadium": "서울 - 서울월드컵경기장",
+    "Type": "축구",
+    "Location": "서울특별시 마포구 월드컵로 240",
+    "Seat": 66704,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/65#reservation"
+  },
+  {
+    "Name": "경남 FC",
+    "Stadium": "경남 - 창원축구센터",
+    "Type": "축구",
+    "Location": "경상남도 창원시 성산구 사파정동 비음로 97",
+    "Seat": 15074,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/88#reservation"
+  },
+  {
+    "Name": "김포 FC",
+    "Stadium": "김포 - 김포솔터축구장",
+    "Type": "축구",
+    "Location": "경기도 김포시 마산동 642-1",
+    "Seat": 10037,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/493#reservation"
+  },
+  {
+    "Name": "부산 아이파크",
+    "Stadium": "부산 - 부산아시아드주경기장",
+    "Type": "축구",
+    "Location": "부산광역시 연제구 월드컵대로 344",
+    "Seat": 53769,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/82#reservation"
+  },
+  {
+    "Name": "전남 드래곤즈",
+    "Stadium": "전남 - 광양축구전용구장",
+    "Type": "축구",
+    "Location": "전라남도 광양시 금호동 700",
+    "Seat": 13496,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS011"
+  },
+  {
+    "Name": "부천 FC",
+    "Stadium": "부천 - 부천종합우동장",
+    "Type": "축구",
+    "Location": "경기도 부천시 소사로 482 KR",
+    "Seat": 35456,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS067"
+  },
+  {
+    "Name": "서울 이랜드 FC",
+    "Stadium": "서울 - 목동운동장",
+    "Type": "축구",
+    "Location": "서울특별시 양천구 안양천로 939",
+    "Seat": 15511,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS098"
+  },
+  {
+    "Name": "성남 FC",
+    "Stadium": "성남 - 탄천종합운동장",
+    "Type": "축구",
+    "Location": "경기도 성남시 분당구 탄천로 215",
+    "Seat": 16867,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS093"
+  },
+  {
+    "Name": "수원 삼성",
+    "Stadium": "수원 - 수원월드컵경기장",
+    "Type": "축구",
+    "Location": "경기도 수원시 팔달구 월드컵로 310",
+    "Seat": 44031,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS003"
+  },
+  {
+    "Name": "아산 FC",
+    "Stadium": "아산 - 이순신종합운동장",
+    "Type": "축구",
+    "Location": "충청남도 아산시 남부로 370-24",
+    "Seat": 17376,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/90#reservation"
+  },
+  {
+    "Name": "안산 FC",
+    "Stadium": "안산 - 안산와스타디움",
+    "Type": "축구",
+    "Location": "경기도 안산시 단원구 화랑로",
+    "Seat": 35000,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS196"
+  },
+  {
+    "Name": "천안 FC",
+    "Stadium": "천안 - 천안종합운동장",
+    "Type": "축구",
+    "Location": "충청남도 천안시 서북구 번영로 208",
+    "Seat": 26000,
+    "Ticket": "https://ticket.interpark.com/Contents/Sports/GoodsInfo?SportsCode=07002&TeamCode=PS006"
+  },
+  {
+    "Name": "청주 FC",
+    "Stadium": "청주 - 청주종합운동장",
+    "Type": "축구",
+    "Location": "충청북도 청주시 서원구 사직대로 229",
+    "Seat": 16280,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/496#reservation"
+  },
+  {
+    "Name": "인천 유나이티드",
+    "Stadium": "인천 - 인천축구전용경기장",
+    "Type": "축구",
+    "Location": "인천광역시 중구 참외전로 246",
+    "Seat": 18989,
+    "Ticket": "https://www.ticketlink.co.kr/sports/football/77#reservation"
+  },
+  {
+    "Name": "울산 현대모비스",
+    "Stadium": "울산 - 동천체육관",
+    "Type": "농구",
+    "Location": "울산광역시 중구 염포로 85",
+    "Seat": 5831,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "고양 소노",
+    "Stadium": "고양 - 고양소노아레나",
+    "Type": "농구",
+    "Location": "경기도 고양시 일산서구 중앙로 1601",
+    "Seat": 6216,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "창원 LG",
+    "Stadium": "창원 - 창원실내체육관",
+    "Type": "농구",
+    "Location": "경상남도 창원시 의창구 두대동 145",
+    "Seat": 6000,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "수원 KT",
+    "Stadium": "수원 - 수원KT소닉붐아레나",
+    "Type": "농구",
+    "Location": "경기도 수원시 권선구 서수원로577번길 171",
+    "Seat": 4407,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "부산 KCC",
+    "Stadium": "부산 - 사직실내체육관",
+    "Type": "농구",
+    "Location": "부산광역시 동래구 사직로 55-32",
+    "Seat": 14099,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "원주 DB",
+    "Stadium": "원주 - 원주종합체육관",
+    "Type": "농구",
+    "Location": "강원특별자치도 원주시 서원대로 281",
+    "Seat": 4600,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "서울 삼성",
+    "Stadium": "서울 - 잠실실내체육관",
+    "Type": "농구",
+    "Location": "서울특별시 송파구 올림픽로 25",
+    "Seat": 11069,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "대구 한국가스공사",
+    "Stadium": "대구 - 대구실내체육관",
+    "Type": "농구",
+    "Location": "대구광역시 북구 대구체육관로 39",
+    "Seat": 3867,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "안양 정관장",
+    "Stadium": "안양 - 안양정관장아레나",
+    "Type": "농구",
+    "Location": "경기도 안양시 동안구 비산동 1023",
+    "Seat": 6690,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "서울 SK",
+    "Stadium": "서울 - 잠실학생체육관",
+    "Type": "농구",
+    "Location": "서울특별시 송파구 올림픽로 25",
+    "Seat": 5400,
+    "Ticket": "https://www.kbl.or.kr/ticket/info"
+  },
+  {
+    "Name": "한국전력",
+    "Stadium": "수원 - 수원실내체육관",
+    "Type": "배구",
+    "Location": "경기도 수원시 장안구 조원동 775",
+    "Seat": 5145,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "KB손해보험",
+    "Stadium": "의정부 - 의정부체육관",
+    "Type": "배구",
+    "Location": "경기도 의정부시 체육로 90",
+    "Seat": 4057,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "현대캐피탈",
+    "Stadium": "천안 - 유관순체육관",
+    "Type": "배구",
+    "Location": "충청남도 천안시 서북구 번영로 208",
+    "Seat": 5482,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "대한항공",
+    "Stadium": "인천 - 계양체육관",
+    "Type": "배구",
+    "Location": "인천광역시 계양구 봉오대로 855",
+    "Seat": 4270,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "삼성화재",
+    "Stadium": "대전 - 충무체육관",
+    "Type": "배구",
+    "Location": "대전광역시 중구 대종로 373",
+    "Seat": 3812,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "우리카드",
+    "Stadium": "서울 - 장충체육관",
+    "Type": "배구",
+    "Location": "서울특별시 중구 동호로 241",
+    "Seat": 4507,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  },
+  {
+    "Name": "OK저축은행",
+    "Stadium": "안산 - 상록수체육관",
+    "Type": "배구",
+    "Location": "경기도 안산시 상록구 본오3동 용신로 422",
+    "Seat": 2535,
+    "Ticket": "https://kovo.co.kr/KOVO/ticket/ticket-buy"
+  }
+]
